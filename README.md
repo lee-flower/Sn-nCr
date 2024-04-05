@@ -1,4 +1,6 @@
-# 等差数列的r阶前n项和与组合数的联系
+# The relationship between the First n Terms of the r Order of an Arithmetic Sequence and the Number of Combinations
+
+These are the preview images of my paper below:
 
 ![01](./README-imgs/0001.jpg)
 
